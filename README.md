@@ -6,9 +6,15 @@
 
 <h2>Projects</h2>
 
-<!-- TODO: Erase one of these two. Replace the 'href' link below with a link to your WebGL build page. -->
 <ul>
-<li><a href="https://pre00.deviantart.net/4fa1/th/pre/i/2010/254/0/4/chibi_metroid_by_freak_sider-d2yhe9u.png">Zelda Dungeon #1 Remake</a></li>
+  <li>
+    <a href="https://tyrish.itch.io/zd1r">Zelda Dungeon #1 Remake</a>
+    <p>
+      Created by Ty Kennedy, used Unity and C# to remake Zelda Dungeon #1 with Karar Abed in EECS 494 Fall 2025. 
+      I worked on implementing the custom mechanic feature and level, almost all sprite animations, a decent amount 
+      of enemy AI, transitions, usage of prefabs, audio effects, and weapon systems such as the sword.
+    </p>
+  </li>
 </ul>
 
 <!-- TIP: Rename this file "index.html", and it will become the default landing page whenever someone navigates their browser to your domain. -->
