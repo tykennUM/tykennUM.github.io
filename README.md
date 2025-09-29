@@ -14,6 +14,10 @@
       I worked on implementing the custom mechanic feature and level, almost all sprite animations, a decent amount 
       of enemy AI, transitions, usage of prefabs, audio effects, and weapon systems such as the sword.
     </p>
+    <a href="https://github.com/ttykkennedy/WiseGuy">WiseGuy</a>
+    <p>
+      Created by Ty Kennedy, used C++, Lua, GLM, LuaBridge, SDL, Box2D, and Wwise to create a working Game Engine that can tool in creating any game from scratch.
+    </p>
   </li>
 </ul>
 
