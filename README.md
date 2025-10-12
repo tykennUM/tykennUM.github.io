@@ -24,5 +24,3 @@
       Created by Ty Kennedy in EECS 494 Fall 2025, short game created in two weeks relying on simple game design mechanics.
     </p>
   </li>
-
-</html>
