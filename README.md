@@ -24,7 +24,5 @@
       Created by Ty Kennedy in EECS 494 Fall 2025, short game created in two weeks relying on simple game design mechanics.
     </p>
   </li>
-</ul>
 
-<!-- TIP: Rename this file "index.html", and it will become the default landing page whenever someone navigates their browser to your domain. -->
 </html>
