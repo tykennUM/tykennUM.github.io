@@ -23,4 +23,8 @@
     <p>
       Created by Ty Kennedy in EECS 494 Fall 2025, short game created in two weeks relying on simple game design mechanics.
     </p>
+    <a href="https://tyrish.itch.io/ironveine-ridge">Ironveine Ridge (p3_gold)</a>
+    <p>
+      Created by Ty Kennedy in EECS 494 Fall 2025, short horror game. Created and coded all enemies, added all audio, added other game mechanics like certain UI indications. 
+    </p>
   </li>
